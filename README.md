@@ -5,4 +5,4 @@ Back on 2013 Neil Cicierega released to the public a tool on his [Tumblr](https:
 
 PS: This only works on Windows!
 
-More of my stuff at https://tdthetv.neocities.com
+More of my stuff at tdthetv.neocities.org
